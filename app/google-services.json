@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "420270288610",
+    "firebase_url": "https://gjallarhorn-81dae.firebaseio.com",
+    "project_id": "gjallarhorn-81dae",
+    "storage_bucket": "gjallarhorn-81dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420270288610:android:00a1e8f10e6f8a79",
+        "android_client_info": {
+          "package_name": "com.example.gjallarhornrandomizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420270288610-hblkn7uudjml7tv7v33mfa1ih3vssbsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gjallarhornrandomizer",
+            "certificate_hash": "bef1d4a32398248164e6c6f1afa0cbb2a856b235"
+          }
+        },
+        {
+          "client_id": "420270288610-bclfseuq7653oa22lmakp85jc30je9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliJkkoN5loiV6L26xrRdM6uG93nHG4cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420270288610-bclfseuq7653oa22lmakp85jc30je9r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420270288610:android:48ac23f7a880a707",
+        "android_client_info": {
+          "package_name": "com.gjallarhorn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420270288610-md5p2aipt0cfckrom46l219vsga1457e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gjallarhorn.app",
+            "certificate_hash": "bef1d4a32398248164e6c6f1afa0cbb2a856b235"
+          }
+        },
+        {
+          "client_id": "420270288610-i5qfnt3i8knt03rp64h7fv420figse5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gjallarhorn.app",
+            "certificate_hash": "7f573573847c38ee6992452bcf77dcd3d4be3979"
+          }
+        },
+        {
+          "client_id": "420270288610-bclfseuq7653oa22lmakp85jc30je9r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliJkkoN5loiV6L26xrRdM6uG93nHG4cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420270288610-bclfseuq7653oa22lmakp85jc30je9r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
