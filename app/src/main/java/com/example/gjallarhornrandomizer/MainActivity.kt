@@ -12,6 +12,8 @@ import java.io.FileInputStream
 import java.io.IOException
 
 class MainActivity : AppCompatActivity() {
+    lateinit var storage: FirebaseStorage
+    lateinit var database: FirebaseFirestore
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
